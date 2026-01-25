@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #111;
+  background: #fff;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+p,
+li {
+  font-size: 0.98rem;
+}
+
+a {
+  color: inherit;
+}
