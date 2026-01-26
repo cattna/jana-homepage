@@ -42,7 +42,7 @@ export default function App() {
         </List>
       </Section>
 
-      <Section title="Selected Projects">
+      <Section title="Projects">
         <List>
           <li>
             <strong>Machine Learning–Integrated Database Research</strong>
