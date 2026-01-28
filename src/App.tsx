@@ -42,6 +42,47 @@ export default function App() {
         </List>
       </Section>
 
+      <Section title="Reproducibility Study Artifacts">
+        <List>
+          <li>
+            <strong>STrans-GAN: ICDM'22</strong>
+            <br />
+            <a
+              href="https://github.com/cattna/Reproducibility-Study-of-STrans-GAN-ICDM-22-"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub Repository
+            </a>
+          </li>
+
+          <li>
+            <strong>MORAL-Ranking-Aware-Fairness: AAAI'26</strong>
+            <br />
+            <a
+              href="https://github.com/cattna/A-Reproducibility-Study-of-MORAL-Ranking-Aware-Fairness-in-Link-Prediction"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Code & Experimental Artifacts
+            </a>
+          </li>
+
+          <li>
+            <strong>TSB-Clustering: PVLDB'25</strong>
+            <br />
+            <a
+              href="https://github.com/cattna/Reproduction-of-TSB-Clustering-from-VLDB-2025"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Data Pipeline Artifacts
+            </a>
+          </li>
+        </List>
+      </Section>
+
+
       <Section title="Projects">
         <List>
           <li>
