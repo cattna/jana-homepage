@@ -52,7 +52,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Link
+              Github
             </a>
           </li>
 
@@ -64,7 +64,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Link
+              Github
             </a>
           </li>
 
@@ -76,7 +76,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Link
+              Github
             </a>
           </li>
         </List>
