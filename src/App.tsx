@@ -52,7 +52,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              GitHub Repository
+              Link
             </a>
           </li>
 
@@ -64,7 +64,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Code & Experimental Artifacts
+              Link
             </a>
           </li>
 
@@ -76,7 +76,7 @@ export default function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Data Pipeline Artifacts
+              Link
             </a>
           </li>
         </List>
